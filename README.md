@@ -1,4 +1,4 @@
-# JCLIP
+# JCLIP（提醒：VIT-B-32没有上传，[VIT-B-32](https://github.com/uyzhang/JCLIP/releases/tag/%E6%9D%83%E9%87%8D)然后classes.txt和demo.txt应该放在Dataset文件夹中，Dataset文件夹应该还需要有TestSetA文件夹，可以在jittor头歌平台下载）
 
 [[Blog]](https://openai.com/blog/clip/) [[Paper]](https://arxiv.org/abs/2103.00020)
 
